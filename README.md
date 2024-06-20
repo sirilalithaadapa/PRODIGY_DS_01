@@ -1,5 +1,7 @@
 # PRODIGY_DS_01
-PRODIGY DATA SCIENCE INTERNSHIP MAY 15 - JUNE 15 2024
+<br>
+
+<img src="https://github.com/sirilalithaadapa/PRODIGY_DS_01/blob/main/Screenshot%20(423).png">
 
 ## TASK
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the disctribution of ages or genders in a population.
